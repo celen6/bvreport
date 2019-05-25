@@ -1,0 +1,369 @@
+﻿Mes de consulta;Tipo de atención;Tipo de usuario;Unidad de Negocio - Modalidad de Estudios;Sede de procedencia;Carrera;Tema consultado
+Abril;Correo;Externo;No aplica;No aplica;No aplica;Acceso a tesis de repositorio
+Setiembre;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Lambramani;Ingeniería Mecánica;Solicitud de bibliografía
+Octubre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería de Sistemas e Informática;descarga de libro
+Octubre;Correo;Docente;No aplica;No aplica;No aplica;acceso a silabos
+Octubre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;descarga de libro
+Noviembre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Derecho;donación de libros
+Diciembre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Contabilidad;Acceso a libros digitales de Pearson
+Diciembre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Derecho;acceso a libro digital
+Diciembre;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería Industrial;Libros de filosofía del derecho 
+Diciembre;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería Industrial;Libros de emprendimiento
+Enero;Correo;Externo;No aplica;No aplica;No aplica;Acceso al repositorio 
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Contabilidad;Acceso al repositorio
+Enero;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Eléctrica;acceso a documentos de repositorio
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Derecho;Acceso a revista digital de Actualidad Gubernamental
+Enero;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Derecho;Accesp a revista digital Actualidad Empresarial
+Enero;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Civil;Solicitud de sílabos de carrera
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración;Acceso a libro electrónico de Investigación de operaciones
+Enero;Correo;Administrativo;No aplica;No aplica;No aplica;Solicitud de reporte bibliográfico de Diseño de modas
+Enero;Correo;Estudiante;Pregrado Presencial;Huancayo;Por regularizar;Libro para el curso de Habilidades comunicativas
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;Acceso a libro digital del Proquest
+Enero;Correo;Docente;No aplica;Huancayo;No aplica;Usuario de asesor en Turnitin
+Enero;Correo;Docente;No aplica;Lambramani;No aplica;Solicita cuenta en Turnitin
+Enero;Correo;Externo;No aplica;No aplica;No aplica;Acceso a tesis confidencial del Repositorio
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Derecho;Acceso a libro digital de Curso Etica y Ciudadania
+Enero;Chat;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Derecho;Acceso a Gaceta Civil
+Enero;Chat;Egresado;Pregrado Presencial;Huancayo;Derecho;Consulta sobre bibliografía
+Enero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;Acceso a Biblioteca virtual
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Contabilidad;Acceso a libro de Pearson
+Enero;Chat;Egresado;No aplica;Huancayo;Administración y Negocios Internacionales;Solicitud de un titulo especifico
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Contabilidad;Acceso a libro digital Pearson 
+Enero;Chat;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Ambiental;Acceso a aula virtual 
+Enero;Correo;Externo;No aplica;No aplica;No aplica;Solicitud de documento
+Enero;Chat;Estudiante;Pregrado Presencial;Huancayo;Administración de Empresas;No realizado
+Enero;Chat;Estudiante;Pregrado Presencial;Huancayo;Administración;Acceso a libros digitales 
+Enero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería Industrial;Contraseña de gaceta penal  
+Enero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Huancayo;Ingeniería Civil;Búsqueda de información
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Huancayo;Ingeniería Industrial;Bibliográfica: trigonometría
+Enero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Contabilidad;Acceso a revistas actualizadas de Contabilidad
+Enero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;Búsqueda de ebook
+Enero;Chat;Estudiante;Pregrado Presencial;Huancayo;Arquitectura;búsqueda de tesis
+Enero;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Empresarial;Sílabo de repositorio 
+Enero;Correo;Estudiante;Pregrado Presencial;Huancayo;Ciencias y Tecnologías de la Comunicación;Tesis de repositorio 
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería Industrial;Libros digitales
+Enero;Chat;Estudiante;Pregrado Presencial;Huancayo;Derecho;Tesis sobre donación de órganos
+Enero;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Collasuyo;Derecho;Libros de derecho de familia
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Contabilidad;acceso a material de clase
+Enero;Correo;Externo;No aplica;No aplica;No aplica;Acceso al libro Evaluación de proyectos de electrificación rural
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Derecho;solicitar capacitación
+Enero;Correo;Externo;No aplica;No aplica;No aplica;Acceso a tesis
+Enero;Chat;Estudiante;Pregrado Presencial;Huancayo;Administración y Negocios Internacionales;"Consulta del título ""El proceso estratégico: un enfoque de gerencia"""
+Enero;Correo;Estudiante;Instituto presencial;Huancayo;Contabilidad;contabilidad de costos
+Enero;Chat;Estudiante;Pregrado Presencial;Huancayo;Ciencias y Tecnologías de la Comunicación;periodismo deportivo
+Enero;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Civil;libro de psicología
+Enero;Correo;Docente;No aplica;Huancayo;No aplica;Acceso a libro digital Metodología de la Investigación de Hernández Sampieri
+Febrero;Chat;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Eléctrica;Libros digitales
+Febrero;Chat;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Civil;Catálogo en línea 
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Psicología;Talleres
+Marzo;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería Empresarial;Digitalia
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"Acceso a libro digital ""Comportamiento del consumidor"""
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"Acceso a libro digital ""Comportamiento del consumidor"""
+Abril;Correo;Estudiante;"Pregrado Semipresencial - A Distancia (Virtual)	";Virtual;Psicología        ;"Acceso a libro digital ""Precálculo"""
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"Acceso a libro digital ""Marketing de servicios"""
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"Acceso a libro digital ""Marketing de servicios"""
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"Acceso a libro digital ""Marketing de servicios"""
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"Acceso a libro digital ""Marketing de servicios"""
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"Acceso a libro digital ""Marketing de servicios"""
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"Acceso a libro digital ""Marketing de servicios"""
+Abril;Correo;Administrativo;No aplica;Huancayo;No aplica;Reporte bibliográfico de la carrera de Gastronomía y Arte Culinario
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"Acceso a libro digital ""Marketing de servicios"""
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"Acceso a libro digital ""Marketing de servicios"""
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"Acceso a libro digital ""Marketing de servicios"""
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"Acceso a libro digital ""Fundamentos de Marketing"""
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Gastronomía y Arte Culinario;Bibliografía sobre Cocina europea y mediterránea
+Abril;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;"cceso a libro digital ""Comportamiento del consumidor"" 4. BIBLIOTECARIO VIRTUAL/4.2.Jannes x"
+Abril;Correo;Administrativo;No aplica;Huancayo;No aplica;Disponibilidad del libro -El estilo del periodista
+Abril;Chat;Estudiante;Pregrado Presencial;Huancayo;Psicología;acceso al libro Sexualidad Humana
+Mayo;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería de Sistemas e Informática;Libro Algorithms 4th ed, Kindle
+Mayo;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Huancayo;Contabilidad;Consulta no atendida previamente en chat
+Mayo;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;Consulta disponibilidad de libro digital
+Mayo;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Lambramani;Ingeniería Mecánica;Acceso a libros digitales (Ebook 7-24)
+Mayo;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración;Libros digitales de Matemática 1.0
+Mayo;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Civil;Costos y Presupuestos en Edificaciones
+Mayo;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Lambramani;Ingeniería Industrial;Consulta sobre bibliografía
+Mayo;Correo;Externo;No aplica;No aplica;No aplica;Acceso a tesis de Repositorio
+Junio;Chat;Docente;No aplica;Miraflores;No aplica;Búsqueda de libros sobre calidad de servicio, desarrollo curricular y métodos de aprendizaje
+Junio;Correo;Docente;No aplica;Por regularizar;No aplica;Capcitaciones de turnitin
+Junio;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería Industrial;Acceso a Biblioteca Virtual
+Junio;Chat;Estudiante;Pregrado Presencial;Huancayo;Psicología;Devolución de un libro 
+Julio;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Los Olivos;Por regularizar;Sobre detalles de capacitaciones
+Julio;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Lambramani;Por regularizar;Sobre inscripción en taller
+Agosto;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería Industrial;Grabación de capacitaciones
+Agosto;Correo;Externo;No aplica;No aplica;No aplica;consulta de tesis
+Setiembre;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Lambramani;Ingeniería Mecánica;Consulta de capacitaciones 
+Setiembre;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Ingeniería Industrial;consultar libros digitales
+Setiembre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Huancayo;Ingeniería de Sistemas e Informática;Acceder a proquest
+Noviembre;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Contabilidad;"""Dinámica de grupos"""
+Febrero;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Collasuyo;Ingeniería Civil;materiales de construcción
+Febrero;Correo;Estudiante;Pregrado Presencial;Huancayo;Derecho;horario docente
+Febrero;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Lambramani;Ingeniería Mecánica;ficha socioeconómica
+Febrero;Correo;Tesista;Posgrado;Huancayo;Administración - Marketing y Negocios Internacionales;violencia contra la mujer y feminicidio
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería de Sistemas e Informática;Acceso a tesis
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Lambramani;Ingeniería Industrial;logística e ingeniería de métodos
+Febrero;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Ingeniería Industrial;Reprogramación de capacitación
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Huancayo;Ingeniería Mecánica;horario de atención Hub de Inf. Huancayo
+Febrero;Correo;Egresado;No aplica;No aplica;Administración y Gestión Pública;solicitud de video de capacitación
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Huancayo;Administración;leer archivos en drive
+Febrero;Correo;Estudiante;Instituto presencial;"Huancayo	";"Contabilidad	";contabilidad básica
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Juan Espinoza;Ingeniería Civil;estadística general, cálculo integral o cálculo en física
+Febrero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Huancayo;Contabilidad;Búsqueda de autores (no especificó tema)
+Febrero;Correo;Estudiante;Pregrado Presencial;Yanahuara;Ingeniería Mecánica;libros de mecánica automotriz
+Febrero;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Yanahuara;Ingeniería Industrial;ingeniería industrial básica
+Febrero;Chat;Docente;No aplica;Huancayo;No aplica;Acceso a artpiculo de IEEE
+Febrero;Correo;Externo;No aplica;No aplica;No aplica;Solicitud de tesis de repositorio
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Los Olivos;Administración;Solicitud de grabación de capacitaciones
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Los Olivos;Administración;link de grabación de taller de Prezi
+Febrero;Correo;Docente;No aplica;Huancayo;No aplica;Renovar los préstamos
+Febrero;Correo;Docente;No aplica;Los Olivos;No aplica;Acceso a Turnitin
+Febrero;Correo;Externo;No aplica;No aplica;No aplica;Consulta de repositorio 
+Febrero;Correo;Estudiante;Pregrado Presencial;Huancayo;Medicina Humana;fisiopatología
+Febrero;Correo;Estudiante;Instituto presencial;Huancayo;Diseño de Modas;fundamentos de diseño de modas
+Febrero;Correo;Docente;No aplica;No aplica;No aplica;Acceso a recursos digitales
+Febrero;Chat;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Civil;Acceso al repositorio
+Febrero;Chat;Docente;No aplica;Huancayo;No aplica;porcentajes de Turnitin
+Febrero;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Ingeniería Civil;Renovación de libros
+Febrero;Correo;Egresado;No aplica;No aplica;Administración y Gestión Pública;Solicitud de grabación y ppt de taller
+Febrero;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Ingeniería de Minas;acceso a constructivo
+Febrero;Correo;Estudiante;Instituto presencial;Huancayo;Gastronomía y Arte Culinario;Información sobre Variedades de papa
+Febrero;Chat;Egresado;No aplica;Huancayo;Psicología;Acceso a Proquest
+Febrero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería Industrial;teléfono del Hub de Arequipa
+Febrero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Lambramani;Ingeniería Industrial;Renovación de libro
+Febrero;Correo;Estudiante;Instituto presencial;Huancayo;Administración Bancaria;Renovación de préstamos
+Febrero;Correo;Estudiante;Instituto presencial;Huancayo;Gastronomía y Arte Culinario;Variedades  de papa
+Febrero;Correo;Estudiante;Instituto presencial;Huancayo;Gestión de la Construcción;Renovación de préstamo
+Febrero;Correo;Egresado;Pregrado Presencial;Huancayo;Arquitectura;Acceso a tesis de Repositorio
+Febrero;Correo;Estudiante;Pregrado Presencial;Huancayo;Medicina Humana;Devolución tardía
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;Servicios que brinda el  Hub
+Febrero;Correo;Estudiante;Pregrado Presencial;Huancayo;Administración y Marketing;Renovación de préstamo
+Febrero;Correo;Docente;No aplica;Huancayo;No aplica;guía de trabajo de ingeniería de materiales
+Febrero;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Collasuyo;Ingeniería Civil;Consulta sobre bibliografía
+Febrero;Correo;Estudiante;Instituto presencial;Huancayo;Diseño Gráfico;Consulta No formulada
+Febrero;Correo;Docente;No aplica;Huancayo;No aplica;Acceso a Actualidad Empresarial
+Febrero;Correo;Docente;No aplica;Huancayo;No aplica;Acceso a ProQuest Central
+Febrero;Chat;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Ingeniería Civil;Acceso a libros digitales
+Febrero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Contabilidad;Disponibilidad de RI en formato digital
+Mayo;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Los Olivos;Psicología;coordinación de capacitación de prezi
+Junio;Chat;Estudiante;Instituto presencial;Huancayo;Gestión de la Construcción;"Acceso a revista digital ""Constructivo"""
+Junio;Chat;Estudiante;Instituto presencial;Huancayo;Contabilidad;Solicitud de recursos
+Junio;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Los Olivos;Psicología;devolución de libro
+Junio;Chat;Estudiante;Instituto presencial;Huancayo;Gestión de la Construcción;Renovación de préstamo
+Junio;Correo;Estudiante;Instituto presencial;Huancayo;Gestión de la Construcción;Ampliación de préstamos
+Julio;Chat;Docente;No aplica;Huancayo;No aplica;planeamiento de tecnologías
+Julio;Chat;Docente;No aplica;Juan Espinoza;No aplica;cuenta de Turnitin
+Julio;Correo;Estudiante;Pregrado Presencial;Huancayo;Arquitectura;Devolución pendiente
+Agosto;Correo;Docente;No aplica;Huancayo;No aplica;Linux
+Agosto;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Lambramani;Ingeniería Eléctrica;manual de máquinas eléctricas
+Agosto;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración y Gestión Pública;acceso a Actualidad Gubernamental
+Noviembre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Los Olivos;Administración;consultar tesis de la UP
+Noviembre;Correo;Externo;No aplica;No aplica;No aplica;Solicitud de acceso a artículo
+Noviembre;Correo;Estudiante;Pregrado Presencial;Huancayo;Arquitectura;Devolución de libro
+Noviembre;Correo;Docente;No aplica;Huancayo;No aplica;Acceso a manuales autoformativos
+Diciembre;Correo;Docente;No aplica;Los Olivos;No aplica;cuenta Turnitin
+Diciembre;Chat;Docente;Pregrado Presencial;Huancayo;No aplica;Aforo de los teacher lounge
+Diciembre;Correo;Estudiante;Pregrado Presencial;Huancayo;Administración;Horarios de atención 
+Diciembre;Correo;Egresado;No aplica;Huancayo;Administración;estudio de evaluacion de riesgo 
+Diciembre;Correo;Docente;No aplica;Huancayo;No aplica;Libros virtuales 
+Diciembre;Correo;Docente;No aplica;No aplica;No aplica;Libros digitales 
+Diciembre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración y Gestión Pública;Lectura de un libro digital 
+Diciembre;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Derecho;Acceso a libros digitales 
+Diciembre;Correo;Docente;No aplica;No aplica;No aplica;"Consulta sobre el tema de ""Esguince"""
+Diciembre;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería de Sistemas e Informática;libro virtual java
+Diciembre;Correo;Docente;No aplica;Los Olivos;No aplica;libros digitales 
+Diciembre;Correo;Tesista;Pregrado Presencial;Huancayo;Ingeniería Industrial;Renovación de préstamos 
+Diciembre;Correo;Estudiante;Pregrado Presencial;Huancayo;Medicina Humana;Libros de Fisiopatología 
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Psicología;Acceso a libros de Precálculo
+Enero;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Yanahuara;Ingeniería Mecánica;Artículos de Marketing
+Enero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Psicología;Cómo acceder a los libros difitales
+Enero;Correo;Estudiante;Pregrado Presencial;Huancayo;Tecnología Médica - Especialidad en Terapia Física y Rehabilitación;hidroterapia
+Enero;Correo;Estudiante;Pregrado Presencial;Yanahuara;Derecho;acceso a revistas digitales
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;leer libro en Digitalia
+Enero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración;Liderazgo: teoría, aplicación y desarrollo de habilidades
+Enero;Correo;Estudiante;Pregrado Presencial;Yanahuara;Ingeniería Civil;guía de curso
+Febrero;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería de Sistemas e Informática;consulta no formulada
+Febrero;Correo;Docente;No aplica;No aplica;No aplica;Preparación y evaluación de proyectos
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería de Sistemas e Informática;SQL
+Febrero;Correo;Estudiante;Pregrado Presencial;Huancayo;Administración y Negocios Internacionales;libros virtuales
+Febrero;Chat;Estudiante;Pregrado Presencial;Huancayo;Administración y Recursos Humanos;Reserva de computadoras
+Febrero;Chat;Estudiante;Pregrado Presencial;Los Olivos;Derecho;"Acceso a Revista ""Diálogo con la Jurisprudencia"""
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Derecho;Acceso a Biblioteca Virtual
+Febrero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Derecho;Libros de lenguaje y comunicación
+Febrero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Administración;Libros de administración
+Febrero;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Los Olivos;Psicología;"Libros referentes a ""Estilos de Liderazgo"""
+Febrero;Chat;Estudiante;Pregrado Presencial;Huancayo;Administración;Acceso a las Tesis
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración y Gestión Pública;Acceso a Ebsco eBooks
+Marzo;Correo;Estudiante;Instituto presencial;Huancayo;Gastronomía y Arte Culinario;Información sobre Emplatados
+Marzo;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Eléctrica;Acceso a la base de datos IEEE Xplore
+Marzo;Correo;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;Recuperación de contraseña
+Marzo;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Ingeniería Mecánica;Libros de Matemática
+Marzo;Correo;Estudiante;Instituto presencial;Huancayo;Gastronomía y Arte Culinario;Artículos sobre Almacenamiento de restaurantes
+Marzo;Correo;Estudiante;Instituto presencial;Huancayo;Gestión de la Construcción;Ampliación de préstamo
+Marzo;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Contabilidad;Acceso libro Co?mo escribir textos acade?micos segu?n normas internacionales : APA, IEEE, MLA
+Marzo;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Psicología;Descarga de libros digitales
+Marzo;Chat;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Yanahuara;Ingeniería Eléctrica;Libros físicos
+Marzo;Correo;Estudiante;Pregrado Presencial;Huancayo;Arquitectura;Préstamos
+Marzo;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Industrial;Devolución pendiente 
+Marzo;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración;Capacitaciones virtuales
+Marzo;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración;Capacitaciones
+Marzo;Correo;Egresado;No aplica;Huancayo;Derecho;Ubicación del Hub de Información  
+Abril;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Collasuyo;Contabilidad;descargar libro de auditoría
+Abril;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Contabilidad;comunicación efectiva
+Abril;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Yanahuara;Contabilidad;Libros de Contabilidad
+Abril;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería de Sistemas e Informática;libros para ingeniería de sistemas
+Abril;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración;importación y exportación
+Abril;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Collasuyo;Derecho;Libro de derecho de  Dohannes Wessels
+Abril;Correo;Estudiante;Pregrado Presencial;Huancayo;Derecho;Devolución tardía
+Abril;Correo;Estudiante;Pregrado Presencial;Huancayo;Psicología;Devolución de libro
+Abril;Correo;Estudiante;Pregrado Presencial;Huancayo;Arquitectura;Reposición de libro
+Abril;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Yanahuara;Psicología;libro - metacognición
+Mayo;Chat;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Collasuyo;Ingeniería Civil;Cooordinación de la capacitación de Powtoon 
+Mayo;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Ingeniería Civil;libros digitales de ing. civil
+Mayo;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Derecho;derecho penal
+Mayo;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Ingeniería Industrial;silabo del repositorio
+Mayo;Chat;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Ingeniería Civil;Libros de gestión de proyectos
+Junio;Correo;Estudiante;Pregrado Presencial;Huancayo;Administración - Marketing y Negocios Internacionales;metodología de la investigación
+Junio;Correo;Estudiante;Pregrado Presencial;Los Olivos;Administración y Marketing;Devolucion de libro
+Junio;Correo;Estudiante;Instituto presencial;Huancayo;Gastronomía y Arte Culinario;Información sobre Productos andinos
+Junio;Correo;Estudiante;Instituto presencial;Huancayo;Contabilidad;Ampliación de préstamo
+Junio;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Administración;Libro de precalculo 
+Junio;Correo;Estudiante;Pregrado Presencial;Huancayo;Economía;libro en préstamo 
+Junio;Correo;Estudiante;Pregrado Presencial;Huancayo;Administración de Empresas;comercialización de hortalizas
+Junio;Correo;Docente;No aplica;No aplica;No aplica;Capacitaciones
+Junio;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería de Sistemas e Informática;Libros de procesos de prueba
+Julio;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Mecánica;Descargar libro digital
+Julio;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Contabilidad;clave de wifi
+Julio;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Collasuyo;Administración;Capacitaciones
+Julio;Correo;Estudiante;Pregrado Presencial;Huancayo;Psicología;renovación de libros
+Julio;Chat;Estudiante;Pregrado Presencial;Huancayo;Administración y Finanzas;horario de atención
+Julio;Correo;Estudiante;Instituto presencial;Huancayo;Gastronomía y Arte Culinario;devolución tardía de libro
+Julio;Correo;Estudiante;Pregrado Presencial;Los Olivos;Administración y Negocios Internacionales;charla Orientar de Biblioteca (alumnos de apoyo)
+Julio;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Derecho;Capacitaciones
+Julio;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Ingeniería Eléctrica;Consultas de tesis
+Agosto;Correo;Estudiante;Pregrado Presencial;Huancayo;Por regularizar;Creación de PIN
+Agosto;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Ingeniería Civil;costos
+Agosto;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Contabilidad;Acceso a Actualidad empresarial
+Agosto;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Ingeniería Civil;cantidad de cursos maximos a llevar
+Agosto;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Derecho;divorcio
+Agosto;Correo;Estudiante;Pregrado Presencial;Los Olivos;Ingeniería Industrial;horario y campus 
+Agosto;Correo;Estudiante;Pregrado Presencial;Los Olivos;Ingeniería Industrial;Libros de ingeniería 
+Agosto;Correo;Estudiante;Pregrado Presencial;Los Olivos;Ingeniería Ambiental;72380721@continental.edu.pe
+Agosto;Correo;Estudiante;Pregrado Presencial;Los Olivos;Ingeniería Industrial;Servicios 
+Setiembre;Correo;Estudiante;Instituto presencial;Huancayo;Contabilidad;"	libro de dinámica del plan contable"
+Setiembre;Correo;Estudiante;Instituto presencial;Huancayo;Contabilidad;Devolución pendiente
+Setiembre;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Los Olivos;Psicología;renovación de libro
+Setiembre;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Collasuyo;Ingeniería Civil;Acceso a revista constructivo
+Setiembre;Chat;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Ingeniería Empresarial;libro de Análisis matemático
+Setiembre;Chat;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Ingeniería Empresarial;Libros sobre análisis matemático
+Setiembre;Correo;Docente;No aplica;Por regularizar;No aplica;Préstamo de libro digital
+Setiembre;Correo;Estudiante;Pregrado Presencial;Huancayo;Odontología;Renovación de préstamo de libro
+Setiembre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración y Marketing;Acceso a tesis de repositorio 
+Octubre;Chat;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Mecatrónica;Acceso a scopus, cielo
+Octubre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;Psicoterapia psicoanalítica: una ética terapéutica más allá de la técnica
+Octubre;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería Industrial;Renovación de libros
+Octubre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;Psicoterapia psicoanalítica
+Octubre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;horario Los Olivos
+Octubre;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;Acceso a libros digitales
+Octubre;Chat;Estudiante;Pregrado Presencial;Los Olivos;Medicina Humana;Préstamo de libros
+Octubre;Chat;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Industrial;Libro de Introducción a la Ingeniería
+Octubre;Chat;Estudiante;Instituto presencial;Huancayo;Administración de Empresas;Libro de Liderazgo
+Octubre;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Psicología;Libro de Introducción a la Psicología
+Octubre;Correo;Docente;No aplica;Los Olivos;No aplica;Tesis de Ingeniería 
+Octubre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Administración - Marketing y Negocios Internacionales; Tesis de gestión de tiempo y recreación organizacional
+Octubre;Chat;Estudiante;Pregrado Presencial;Huancayo;Arquitectura;Renovación de préstamo
+Noviembre;Correo;Estudiante;Pregrado Presencial;Los Olivos;Medicina Humana;reserva de laptop
+Noviembre;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);No aplica;Administración y Gestión Pública;Acceso a libro digitales
+Noviembre;Chat;Estudiante;Pregrado Presencial;Lambramani;Ingeniería Industrial;Link de capacitación
+Noviembre;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Huancayo;Administración;Acceso al repositorio
+Noviembre;Correo;Estudiante;Instituto semipresencial;Huancayo;Administración de Empresas;fundamentos de marketing
+Noviembre;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería de Minas;mineral/minera
+Noviembre;Chat;Estudiante;Pregrado Presencial;Los Olivos;Ingeniería Civil; Libros de Administración y negocios internacionales
+Noviembre;Chat;Estudiante;Pregrado Presencial;Huancayo;Derecho;Pin de acceso a revistas digitales
+Noviembre;Chat;Estudiante;Pregrado Presencial;Huancayo;Medicina Humana;Consulta no formulada
+Noviembre;Chat;Estudiante;Pregrado Presencial;Huancayo;Medicina Humana; Tiempo de préstamo
+Noviembre;Correo;Docente;No aplica;No aplica;No aplica;Renovar préstamo
+Diciembre;Correo;Externo;No aplica;No aplica;No aplica;acceso a revista de quiosco
+Diciembre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;Descargar libro Psicopatologi?a ba?sica
+Diciembre;Chat;Estudiante;Pregrado Presencial;Los Olivos;Ingeniería Ambiental;áreas del hub
+Diciembre;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Empresarial;descargar silabo y plan de estudio
+Diciembre;Chat;Estudiante;Pregrado Presencial;Huancayo;Medicina Humana;pin de cuenta de biblioteca
+Diciembre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración;Acceso a libro sobre indicadores de gestión
+Diciembre;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;Acceso a libros digitales
+Diciembre;Chat;Estudiante;Pregrado Presencial;Huancayo;Medicina Humana;Anulación de reservas de espacios grupales
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Contabilidad;Descarga de libros digitales
+Febrero;Chat;Estudiante;Pregrado Presencial;Huancayo;Psicología;Acceso a libros digitales
+Febrero;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración;Libro de precálculo
+Febrero;Chat;Estudiante;Pregrado Presencial;Lambramani;Ingeniería Ambiental;Libro de ingeniería ambiental
+Febrero;Correo;Estudiante;Pregrado Presencial;Huancayo;Derecho;Consulta sobre devolución pendiente
+Febrero;Correo;Estudiante;Pregrado Presencial;Huancayo;Administración y Marketing;Consulta sobre devolución pendiente
+Febrero;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Civil;Renovación de Préstamo
+Febrero;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Contabilidad;Acceso a Actualidad Empresarial
+Febrero;Correo;Estudiante;Pregrado Presencial;Huancayo;Contabilidad;Acceso a revista
+Abril;Chat;Estudiante;Pregrado Presencial;Los Olivos;Arquitectura;Horario de atención sábados y domingos
+Abril;Chat;Estudiante;Pregrado Presencial;Huancayo;Psicología;Renovación de préstamo
+Abril;Chat;Estudiante;Pregrado Presencial;Huancayo;Odontología;Artículos de ATM
+Abril;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Administración;Acceso a libro digital de precálculo
+Abril;Correo;Estudiante;Pregrado Presencial;Lambramani;Psicología;Renovación de préstamo
+Mayo;Chat;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Ingeniería Civil;Consulta de transacciones de dinero por devolución tardía
+Mayo;Correo;Estudiante;Pregrado Presencial;Los Olivos;Psicología;Consulta sobre bibliografía
+Mayo;Correo;Estudiante;Pregrado Presencial;Huancayo;Psicología;Renovación de Préstam
+Mayo;Correo;Estudiante;Pregrado Presencial;Huancayo;Administración - Marketing y Negocios Internacionales;Consulta sobre Quiosco Virtual
+Mayo;Correo;Estudiante;Pregrado Presencial;Huancayo;Administración - Marketing y Negocios Internacionales;Acceso a Tesis de Repositorio
+Junio;Correo;Estudiante;Instituto presencial;Huancayo;Gastronomía y Arte Culinario;Historia de la Gastronomía española
+Junio;Correo;Estudiante;Instituto semipresencial;Huancayo;Administración de Empresas;Pérdida de libro
+Julio;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Huancayo;Administración;pearson
+Julio;Correo;Estudiante;Pregrado Presencial;Huancayo;Administración y Marketing;prestar libros
+Julio;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería de Sistemas e Informática;prestar libro
+Julio;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Lambramani;Ingeniería Mecánica;Textos de álgrebra 
+Julio;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería Industrial;consulta
+Julio;Correo;Estudiante;Pregrado Presencial;Huancayo;Arquitectura;prestar libro
+Julio;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Lambramani;Contabilidad;Consulta de fechas de prestamo
+Julio;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Ingeniería Civil;Consultas de textos+
+Julio;Correo;Estudiante;Pregrado Presencial;Lambramani;Psicología;Consulta de texto
+Julio;Correo;Estudiante;Pregrado Presencial;Lambramani;Ingeniería Mecánica;Textos
+Julio;Correo;Estudiante;Pregrado Presencial;Lambramani;Ingeniería Industrial;Renovación
+Julio;Correo;Docente;No aplica;Collasuyo;No aplica;Renovación 
+Julio;Correo;Estudiante;No aplica;No aplica;No aplica;Acceso a base de datos
+Julio;Correo;Estudiante;Pregrado Presencial;Lambramani;Ingeniería Civil;Acceso a base de datos
+Julio;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Industrial;prestar libro
+Julio;Chat;Estudiante;Pregrado Presencial;Huancayo;Administración de Empresas;manage your process
+Julio;Correo;Estudiante;Pregrado Presencial;Huancayo;Odontología;Devolución pendiente RI 
+Julio;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Industrial;Consulta sobre devolución pendiente
+Julio;Chat;Estudiante;Pregrado Presencial;Huancayo;Psicología;Libros de habilidades sociales
+Julio;Chat;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Ingeniería Industrial;Información sobre área y perímetro
+Setiembre;Correo;Estudiante;Pregrado Presencial;Huancayo;Psicología;Servicios de Hub de Información
+Setiembre;Chat;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Lambramani;Ingeniería Eléctrica;Acceso a gaceta penal
+Octubre;Correo;Estudiante;Pregrado Presencial;Lambramani;Ingeniería de Minas;Renovación de Préstamo
+Octubre;Correo;Estudiante;Pregrado Presencial;Lambramani;Ingeniería Ambiental;Renovación de Préstamo
+Octubre;Correo;Estudiante;Pregrado Presencial;Huancayo;Derecho; Devolución pendiente de RI
+Octubre;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Civil;lista de préstamos
+Octubre;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Civil;préstamo de libros
+Octubre;Correo;Estudiante;Pregrado Presencial;Huancayo;Administración y Marketing;Administración de Robbins y Coulter
+Octubre;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Mecánica;Física I
+Octubre;Correo;Egresado;No aplica;Huancayo;Diseño Gráfico;libro de perdida de Biodiversidad
+Octubre;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Ambiental;reservar libro
+Octubre;Correo;Estudiante;Pregrado Presencial;Huancayo;Derecho;libro de Derecho penal
+Octubre;Correo;Estudiante;Pregrado Presencial;Huancayo;Derecho;libro de sociología Jurídica
+Octubre;Correo;Estudiante;Pregrado Presencial;Huancayo;Economía;préstamo de libro en físico por computadora
+Octubre;Correo;Estudiante;Pregrado Presencial;Lambramani;Psicología;descargar libro
+Octubre;Correo;Externo;No aplica;No aplica;No aplica;acceso artículo de revista
+Octubre;Correo;Estudiante;Pregrado Presencial;Los Olivos;Medicina Humana;plan de estudio y libros de medicina
+Octubre;Correo;Estudiante;Pregrado Presencial;Los Olivos;Medicina Humana;artículo de revista
+Octubre;Correo;Estudiante;Posgrado;Miraflores;Maestría en Gerencia Pública;Búsqueda de libro
+Noviembre;Correo;Estudiante;Pregrado Presencial;Lambramani;Psicología;Devolución pendiente
+Noviembre;Chat;Estudiante;Pregrado Presencial;Los Olivos;Ingeniería Ambiental;renovar libros
+Diciembre;Correo;Externo;No aplica;No aplica;No aplica;Solicitud de acceso a revistas digitales
+Diciembre;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Derecho;Solicitud de capacitación 
+Diciembre;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Derecho;Solicitud de capacitaciones
+Diciembre;Correo;Docente;No aplica;No aplica;No aplica;Solicitud de información bibliográfica para estudiantes
+Diciembre;Chat;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Empresarial;Solicitud de información
+Diciembre;Chat;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Los Olivos;Ingeniería Industrial;Consulta de información
+Diciembre;Correo;Docente;No aplica;Huancayo;No aplica;Error de sistema turnitin
+Diciembre;Correo;Estudiante;Pregrado Presencial;Huancayo;Ingeniería Industrial;Devolución pendiente
+Diciembre;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Los Olivos;Ingeniería Civil;talleres y cursos
+Diciembre;Correo;Externo;No aplica;No aplica;No aplica;acceso a artículo de revista
+Diciembre;Correo;Externo;No aplica;No aplica;No aplica;acceso a artículo de revista
+Diciembre;Correo;Externo;No aplica;No aplica;No aplica;acceso a artículo de revista
+Diciembre;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Ingeniería Civil;Préstamo de Libro Ciencias de la Tierra
+Diciembre;Correo;Estudiante;Pregrado Semipresencial - A Distancia (Virtual);Virtual;Psicología;psicología
+Diciembre;Correo;Estudiante;Pregrado Presencial;Los Olivos;Medicina Humana;renovar el préstamo del libro
+Diciembre;Correo;Estudiante;Pregrado Semipresencial - Gente Que Trabaja;Juan Espinoza;Contabilidad;Solicitud de capacitación
